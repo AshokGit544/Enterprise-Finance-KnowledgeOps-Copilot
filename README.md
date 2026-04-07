@@ -216,7 +216,4 @@ the system gives **instant business understanding**
 This project shows how AI can turn finance data into real business decisions.
 
  Not just data processing —
-**this is decision intelligence**
-
-
-Just tell me 👍
+This is decision intelligence
